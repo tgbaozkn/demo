@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "pictures" : [
+    {
+     "id": 1,
+    "title": "tomato",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8XKcrH_qnsybdVqs0eQBkR9Y0EXxMtvJYlw&usqp=CAU",
+    },
+    {
+     "id": 2,
+    "title": "green_pepper",
+    "url": "https://www.likyayoresel.com/UserFiles/Fotograflar/org/215-carliston-biber-3-kg-carliston-biber-tohumu-001-png-carliston-biber-tohumu-001.png",
+    },
+     {
+     "id": 2,
+    "title": "red_pepper",
+    "url": "https://halktv.com.tr/d/news/52695.jpg",
+    },
+  ]
 }
