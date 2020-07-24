@@ -1,4 +1,5 @@
- [
+{ 
+ "pictures" :[
     {
      "id": 1,
     "title": "tomato",
@@ -15,4 +16,4 @@
     "url": "https://halktv.com.tr/d/news/52695.jpg"
     }
   ]
-
+}
